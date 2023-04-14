@@ -5,6 +5,6 @@ om te bepalen welke inhoud er ingeladen moet worden in je html
 -->
 
 
-<a href="index.php?name=eldenring">Klik hier voor info over elden ring</a>
-<a href="index.php?name=hollow-knight">Klik hiers voor info over hk</a>
-<a href="index.php?name=osu">Klik hiers voor info over osu</a>
+<a href="index.php?page=eldenring">Klik hier voor info over elden ring</a>
+<a href="index.php?page=hollow-knight">Klik hiers voor info over hk</a>
+<a href="index.php?page=osu">Klik hiers voor info over osu</a>
