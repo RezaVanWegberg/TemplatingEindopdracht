@@ -34,6 +34,8 @@
 	
 	<!-- laad hier via php je footer in (vanuit je includes map)-->
 
-
+<?php
+  include('includes/footer.php');
+?>
 </body>
 </html>
