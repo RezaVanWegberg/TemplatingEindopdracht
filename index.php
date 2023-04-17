@@ -24,7 +24,7 @@
         include('pages/onderwerp2.php');
     } else if($_GET['page'] == 'osu') {
       include('pages/onderwerp3.php');
-    } else if($_GET['page'] == 'duelyst') {
+    } else if($_GET['page'] == 'ssbu') {
       include('pages/onderwerp4.php');
     }
 
